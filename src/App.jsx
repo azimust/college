@@ -7,7 +7,7 @@ function App() {
     <div className="wrapper">
       <Navigation />
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
